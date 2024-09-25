@@ -1,0 +1,15 @@
+.item-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.item-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    transition: transform 0.2s;
+}
+
+.item-card:hover {
+    transform: scale(1.05);
+}
